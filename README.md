@@ -1,5 +1,3 @@
-
-
 # Polish version README
 
 **Jest to projekt na zaliczenie przedmiotu: "Wprowadzenie do programowania"!**

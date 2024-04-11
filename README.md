@@ -4,17 +4,10 @@
 
 **Treść zadania:**
 
-Napisać program obliczający pierwiastki równania kwadratowego (rozwiązujący równanie kwadratowe) w postaci ax2+bx+c=0
+Napisać program, który utworzy tablicę jednowymiarową i wypełni ją 20 losowymi liczbami całkowitymi od 0 do 100. Następnie posortuje ją, zliczając operacje zamiany liczb miejscami.
 
-* Wymagania techniczne:
-   * Program powinien akceptować liczby rzeczywiste
-   * Nazwy zmiennych zaczynamy od inicjałów autora programu, np. zmienna ‘i’ w programie napisanym przez Jana Kowalskiego powinna nazywać się ‘jki’
-
-* Podpowiedzi:
-   * Użytkownik podaje parametry równania
-   * Program sprawdza czy jest to równanie kwadratowe
-   * Jeśli tak, to obliczana jest delta, w przeciwnym wypadku rozwiązywane jest równanie liniowe
-   * W zależności od wartości delty równanie ma 1, 2 lub 0 rozwiązań
+* Wskazówki:
+   * Zaimplementowane 2 wybrane algorytmy z 3 poznanych na wykładzie (sortowanie bąbelkowe, sortowanie przez wstawianie, sortowanie przez wybieranie)
 
 # English version README
 
@@ -24,14 +17,7 @@ Napisać program obliczający pierwiastki równania kwadratowego (rozwiązujący
 
 **Content of the task:**
 
-Write a program that calculates the roots of a quadratic equation (solving a quadratic equation) in the form ax2+bx+c=0
+Write a program that creates a one-dimensional array and fills it with 20 random integers from 0 to 100. It will then sort it by counting the operations of swapping the numbers with places.
 
-* Technical requirements:
-   * The program should accept real numbers.
-   * Variable names start with the initials of the author of the program, e.g. the variable 'i' in a program written by Jan Kowalski should be called 'jki'.
-
-* Hints:
-   * The user provides the parameters of the equation.
-   * The program checks if it is a quadratic equation.
-   * If yes, the delta is calculated, otherwise a linear equation is solved.
-   * Depending on the value of the delta, the equation has 1, 2 or 0 solutions.
+* Tips:
+   * Implemented 2 selected algorithms from the 3 learned in the lecture (bubble sort, sort by insertion, sort by selection).
